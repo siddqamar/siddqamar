@@ -2,7 +2,7 @@
 
 I focus on **Prompt Engineering**, **Custom GPTs**, and **AI Development**. I'm currently working on fine-tuning models to make them cost-effective for businesses, helping them automate tasks and grow their business.
 
-## 🛠️ Skills & Technologies
+## 🛠️ Tech Stacks
 
 - **Languages**: Python
 - **Databases**: SQLite, PostgreSQL
